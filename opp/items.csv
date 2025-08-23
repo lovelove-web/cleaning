@@ -1,0 +1,11 @@
+name      , quantity, price
+
+'phone'   ,       10,     5
+
+'laptop'  ,        5,    12
+
+'tablet'  ,       15,     8
+
+'monitor' ,       20,     3
+
+'keyboard',        8,    10
